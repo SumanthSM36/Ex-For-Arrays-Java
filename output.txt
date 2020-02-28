@@ -1,0 +1,5 @@
+number of marks :3
+sum of marks: 295
+Minimum marks is : 97
+Maximum marks is : 100
+Average marks is: 98.33333587646484375
